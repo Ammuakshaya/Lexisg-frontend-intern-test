@@ -13,10 +13,6 @@ A minimal frontend interface for a Lexi-like legal assistant that allows users t
 - React.js
 - Tailwind CSS
 
----
-
-### 📸 Screenshot
-*(Insert a screenshot here if you have one)*
 
 ---
 
