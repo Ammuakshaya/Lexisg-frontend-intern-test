@@ -1,26 +1,11 @@
-# Lexi Legal Assistant – Frontend Interface
+# Lexisg-frontend-intern-test
 
-This is a simulated frontend for Lexi-like Legal Assistant built using **React.js**.
+## Overview
+A simple React-based legal assistant interface that allows users to:
+- Ask a legal question
+- View the AI-generated answer
+- Access citation documents with direct PDF links
 
-🚀 **Features**
-- Ask a legal question through a chat-like interface.
-- View AI-generated legal answers.
-- See citations and click to open original documents (PDF shown in popup or new tab).
+## How to Run the Project
 
-🛠 **Tech Stack**
-- React.js
-- Tailwind CSS (optional)
-- React-PDF or iframe for PDF viewer
-
-📄 **Citation Handling**
-- Citations are displayed below the answer card.
-- Clicking opens the relevant PDF in a new browser tab.
-
-🔗 **Live Demo:** [View Here](your-demo-link)
-
-🖥️ **How to Run the Project**
-```bash
-git clone https://github.com/ammuakshaya/Lexisg-frontend-intern-test.git
-cd Lexisg-frontend-intern-test
-npm install
-npm start
+1. Clone the repository:
