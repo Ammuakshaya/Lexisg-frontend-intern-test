@@ -2,13 +2,25 @@
 
 This is a simulated frontend for Lexi-like Legal Assistant built using **React.js**.
 
-## 🚀 Features
-
+🚀 **Features**
 - Ask a legal question through a chat-like interface.
 - View AI-generated legal answers.
-- See citations and click to open original documents (PDF shown in popup).
+- See citations and click to open original documents (PDF shown in popup or new tab).
 
-## 💻 How to Run the Project
+🛠 **Tech Stack**
+- React.js
+- Tailwind CSS (optional)
+- React-PDF or iframe for PDF viewer
 
-1. Clone the repository:
-# Lexisg-frontend-intern-test
+📄 **Citation Handling**
+- Citations are displayed below the answer card.
+- Clicking opens the relevant PDF in a new browser tab.
+
+🔗 **Live Demo:** [View Here](your-demo-link)
+
+🖥️ **How to Run the Project**
+```bash
+git clone https://github.com/ammuakshaya/Lexisg-frontend-intern-test.git
+cd Lexisg-frontend-intern-test
+npm install
+npm start
