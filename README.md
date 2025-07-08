@@ -1,25 +1,17 @@
-# Lexi Legal Assistant – Frontend
-
-A minimal frontend interface for a Lexi-like legal assistant that allows users to:
-
-✅ Ask a legal question  
-✅ See AI-generated legal answers  
-✅ View clickable legal citations  
-✅ Open the original PDF at the cited paragraph
 
 ---
 
-### 🚀 Tech Stack
-- React.js
-- Tailwind CSS
+✅ What to Do Next:
 
+1. Rename your screenshot:  
+`lexi-frontend-screenshot.png`
 
----
+2. Place it in your project’s `/public` folder.
 
-### 💻 How to Run Locally
+3. Paste this **README.md** into your project and save.
 
+4. Push the changes:
 ```bash
-git clone https://github.com/Ammuakshaya/Lexisg-frontend-intern-test.git
-cd Lexisg-frontend-intern-test
-npm install
-npm start
+git add .
+git commit -m "Final README with screenshot"
+git push
