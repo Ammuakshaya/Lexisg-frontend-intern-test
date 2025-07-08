@@ -14,12 +14,13 @@ The app allows users to:
 - React.js
 - Tailwind CSS
 - Deployed on: **Netlify**
-
 ---
 
 ## 📸 Screenshot
 
-(public/lexi-frontend-screenshot.png)
+![Lexi Legal Assistant](public/lexi-frontend-screenshot.png)
+
+
 
 
 
