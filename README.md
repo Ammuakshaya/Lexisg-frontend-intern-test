@@ -18,7 +18,7 @@ The app allows users to:
 
 ## 📸 Screenshot
 
-![Lexi Legal Assistant](public/lexi-frontend-screenshot.png)
+lexi-frontend-screenshot.png
 
 
 
